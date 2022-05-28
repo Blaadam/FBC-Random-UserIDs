@@ -1,4 +1,4 @@
-# FBC-Random-UserIDs
+# FBC-UserID-Database
 
 This repo is used as a database for the [Firestone Broadcasting Company](https://www.roblox.com/groups/9174468/FBC-Firestone-Broadcasting-Company) as apart of storing audience player IDs from players within the State of Firestone.
 
